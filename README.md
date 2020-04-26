@@ -82,7 +82,7 @@ With this platform, financial institutions can provide easy access to informatio
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+TODO
 
 ## The architecture
 
@@ -95,7 +95,7 @@ With this platform, financial institutions can provide easy access to informatio
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+COVID-19 assistant for financial institutions is an omni channel virtual assistant. It will help the users of this application to get answers to frequently asked questions during crisis on Covid-19, payments services, banking services and small business administration. This application also gets information from DOL, Harvard Health, WHO, CDC, IRS on FAQ and is refreshed every day(can be configured to refresh every hour) to provide the latest updates. With this application we beleive that financial  customers can get realtime information without having to wait for a long time and small business owners can get assistance with CARES act and paycheck protection programs specific to their institutions as well as the policies of the goverment.
 
 ## Project roadmap
 
@@ -164,7 +164,8 @@ npx eslint sample-file.js
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+You can find a running system to test at https://generic-covid19-assistant.mybluemix.net/
+Click on <img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/chat-icon"/> to invoke the virtual assistant.
 
 ## Built with
 
