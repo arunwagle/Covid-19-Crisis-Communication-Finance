@@ -95,10 +95,17 @@ TODO
 
 ![Concecptual Architecture](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/conceptual-arc.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user can interact with the virtual assistant using 
+   1. Web
+   1. Voice + SMS
+   1. SMS
+   1. Slack (Beta)
+1. The voice and sms is configured through Twilio and Watson Voice Gateway integrations. This will use the speech to text and text to speech services to convert the conversations abck and foeth with the user.
+1. The web version is a node.js cloud foundary application configured on the IBM Cloud. The web version can be accessed from mobile as well.
+1. Watson Assistant is the virtual agent which is responsible for analyzing the intents of the user and respons appropriately.
+1. Watson Assistant is configured with responses from 2 sources
+   1. Specifically designed in the dialog flows 
+   1. Watson Discovery which uses the Covid-19 FAQ extractors. This application gets information from DOL, Harvard Health, WHO, CDC, IRS on FAQ and is refreshed every day(can be configured to refresh every hour) to provide the latest updates.
 
 ## Long description
 
