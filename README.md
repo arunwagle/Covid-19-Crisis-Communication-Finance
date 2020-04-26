@@ -140,7 +140,13 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Once deployed, run the scripts. 
+
+1. /demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx
+2. /demo-scripts/DemoScript-Covid-19-Finance-Voice+SMS.docx
+3. /demo-scripts/DemoScript-Covid-19-Finance-SMS.docx
+
+Live demo below can be used to test.
 
 ### Break down into end to end tests
 
@@ -152,25 +158,35 @@ vi test/test.js
 ./node_modules/mocha/bin/mocha
 ```
 
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
-
 ## Live demo
 
+### Web
 You can find a running system to test at https://generic-covid19-assistant.mybluemix.net/
 Click on <img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/chat-icon.png" width="50" height="50" /> to invoke the virtual assistant.
 
+Run the scripts /demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx
+
+### Voice + SMS
+Configured Twilio#: Call 214-480-4469
+Run the scripts /demo-scripts/DemoScript-Covid-19-Finance-Voice+SMS.docx
+
+### SMS
+Configured Twilio#: Call 254-274-0066
+Run the scripts /demo-scripts/DemoScript-Covid-19-Finance-SMS.docx
+
+### SLACK
+Please send an email to *arun.wagle@ibm.com* and I will add you to the workspace to test.
+Once added you can run the scripts /demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx
+
+
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
+* [IBM Watson Assitant](https://cloud.ibm.com/catalog/services/watson-assistant) - Watson Assistant lets you build conversational interfaces into any application, device, or channel.
+* [IBM Watson Discovery](https://cloud.ibm.com/catalog/services/discovery) - Watson Discovery adds a cognitive search and content analytics engine to applications.
+* [IBM Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - IBM® Speech to Text service transcribes audio to text to enable speech transcription capabilities for applications. 
+* [IBM Watson Text to Speech](https://cloud.ibm.com/catalog/services/speech-to-text) - IBM Watson™ Text to Speech for IBM® Cloud Pak for Data converts written text to natural-sounding speech to provide speech-synthesis capabilities for applications. 
+* [IBM Cloud Functions](https://cloud.ibm.com/functions/) - Functions-as-a-Service (FaaS) platform based on Apache OpenWhisk
+* [IBM Node.js Cloud Foundary application](https://cloud.ibm.com/catalog/starters/cloud-foundry?runtime=sdk-for-nodejs) -Cloud Foundry automatically transforms source code into containers, scales them on demand, and manages user access and capacity.
 * [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency management
