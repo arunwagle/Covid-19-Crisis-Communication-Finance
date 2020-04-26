@@ -37,6 +37,9 @@ Real world problems:
 
 
 ### How can technology help?
+> Banks have the opportunity for differentiated service  through use of AI. 
+
+![Solution](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/solution.png)
 
 With the help of technology it is possible to create a platform which can provide easy access to information about banking services, payment services, small business administration and COVID-19 specific questions. With technology we can provide customers and small businesses with access to right set of tools and information to survive and flourish in this difficult times.
 
