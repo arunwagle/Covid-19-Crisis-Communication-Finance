@@ -27,7 +27,7 @@
 Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, banks, credit unions in most affected areas are taking precautionary measures by closing their facilities or reducing branch hours. Responses times to phone and email inquiries are longer than usual leading to increased anxiety and frustrations among customers. We need alternate ways to help people with their day to day banking needs .
 
 Some real examples:
-![Problems](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem1.png)(https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem2.png)
+![Problem1](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem1.png)![Problem2](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem2.png)
 
 
 ### How can technology help?
