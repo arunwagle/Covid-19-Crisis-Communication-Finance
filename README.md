@@ -27,8 +27,6 @@
 Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, banks, credit unions in most affected areas are taking precautionary measures by closing their facilities or reducing branch hours. Responses times to phone and email inquiries are longer than usual leading to increased anxiety and frustrations among customers. We need alternate ways to help people with their day to day banking needs .
 
 
-
-
 ### How can technology help?
 
 Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
