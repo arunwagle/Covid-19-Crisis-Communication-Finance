@@ -89,7 +89,7 @@ TODO
 
 ### Detailed video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://ibm.box.com/s/jgp8lslqzqsj5rcrdfsm0qeohcf64vg2)
+[![Watch the video]](https://ibm.box.com/s/jgp8lslqzqsj5rcrdfsm0qeohcf64vg2)
 
 ## The architecture
 
