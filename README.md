@@ -89,7 +89,7 @@ TODO
 
 ### Detailed video
 
-[![Watch the video]](https://ibm.box.com/s/jgp8lslqzqsj5rcrdfsm0qeohcf64vg2)
+[Detailed Presentation Video](https://ibm.box.com/s/jgp8lslqzqsj5rcrdfsm0qeohcf64vg2)
 
 ## The architecture
 
