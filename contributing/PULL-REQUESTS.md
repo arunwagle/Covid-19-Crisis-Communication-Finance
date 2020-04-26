@@ -38,8 +38,7 @@ so that you can make the actual changes. This is where we will start.
 ## Dependencies
 
 More details to come on Project Sample dependencies. In case of doubt, open an issue in the
-[issue tracker](https://github.com/Code-and-Response/Project-Sample/issues/) or engage on the 
-[Project Sample Slack workspace][].
+[issue tracker](https://github.com/Code-and-Response/Project-Sample/issues/).
 
 ## Setting up your local environment
 
@@ -51,13 +50,13 @@ it's time to create a fork.
 
 ### Step 1: Fork
 
-Fork the project [on GitHub](https://github.com/Code-and-Response/Project-Sample) and clone your fork
+Fork the project [on GitHub](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance.git) and clone your fork
 locally.
 
 ```text
-$ git clone git@github.com:username/Project-Sample.git
+$ git clone https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance.git
 $ cd Project-Sample
-$ git remote add upstream https://github.com/Code-and-Response/Project-Sample.git
+$ git remote add upstream https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance.git
 $ git fetch upstream
 ```
 
