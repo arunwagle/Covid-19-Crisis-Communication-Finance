@@ -52,6 +52,8 @@ With the help of technology it is possible to create a platform which can provid
 
 > Omni channel experience including Web, Mobile, Voice, SMS and Slack.
 
+> Roll out new content within hours by collaboration from business, content writers and technical teams.
+
 With this platform, financial institutions can provide easy access to information on (few examples)
 * Small Business Administration (SBA) 
   * SBA Relief Availability
@@ -142,10 +144,11 @@ End with an example of getting some data out of the system or using it for a lit
 ## Running the tests
 
 Once deployed, run the scripts. 
+Scripts folder: https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/tree/master/demo-scripts
 
-1. /demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx
-2. /demo-scripts/DemoScript-Covid-19-Finance-Voice+SMS.docx
-3. /demo-scripts/DemoScript-Covid-19-Finance-SMS.docx
+1. DemoScript-Covid-19-Finance-Web+Slack.docx
+2. DemoScript-Covid-19-Finance-Voice+SMS.docx
+3. DemoScript-Covid-19-Finance-SMS.docx
 
 Live demo below can be used to test.
 
@@ -160,6 +163,15 @@ vi test/test.js
 ```
 
 ## Live demo
+
+### Demo Video
+
+#### 3 Min Overview
+TODO
+
+
+#### Detailed Video
+[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
 ### Web
 You can find a running system to test at https://generic-covid19-assistant.mybluemix.net/
