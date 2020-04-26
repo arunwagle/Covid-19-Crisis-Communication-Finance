@@ -181,16 +181,19 @@ Once added you can run the scripts /demo-scripts/DemoScript-Covid-19-Finance-Web
 
 ## Built with
 
+### IBM Cloud Services
 * [IBM Watson Assitant](https://cloud.ibm.com/catalog/services/watson-assistant) - Watson Assistant lets you build conversational interfaces into any application, device, or channel.
 * [IBM Watson Discovery](https://cloud.ibm.com/catalog/services/discovery) - Watson Discovery adds a cognitive search and content analytics engine to applications.
+* [IBM Voice Gateway](https://cloud.ibm.com/catalog/services/voice-agent-with-watson) - IBM® Voice Agent with Watson™ helps you integrate a set of orchestrated Watson services with the telephone network by using the Session Initiation Protocol (SIP).
 * [IBM Watson Speech to Text](https://cloud.ibm.com/catalog/services/speech-to-text) - IBM® Speech to Text service transcribes audio to text to enable speech transcription capabilities for applications. 
 * [IBM Watson Text to Speech](https://cloud.ibm.com/catalog/services/speech-to-text) - IBM Watson™ Text to Speech for IBM® Cloud Pak for Data converts written text to natural-sounding speech to provide speech-synthesis capabilities for applications. 
 * [IBM Cloud Functions](https://cloud.ibm.com/functions/) - Functions-as-a-Service (FaaS) platform based on Apache OpenWhisk
 * [IBM Node.js Cloud Foundary application](https://cloud.ibm.com/catalog/starters/cloud-foundry?runtime=sdk-for-nodejs) -Cloud Foundry automatically transforms source code into containers, scales them on demand, and manages user access and capacity.
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [IBM DevOps ](https://cloud.ibm.com/devops/toolchains) - Toolchains provide an integrated set of tools to build, deploy and manage your apps. You can create toolchains that include IBM Cloud services, open source tools, and third-party tools that make development and operations repeatable and easier to manage.
+
+### External
+* [Twilio](https://www.twilio.com/) - Customer engagement platform.
+
 
 ## Contributing
 
@@ -202,7 +205,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Arun Wagle** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
 
