@@ -2,7 +2,6 @@
 
 * [How to Contribute in Issues](#how-to-contribute-in-issues)
 * [Asking for General Help](#asking-for-general-help)
-* [Discussing non-technical topics](#discussing-non-technical-topics)
 * [Submitting a Bug Report](#submitting-a-bug-report)
 * [Triaging a Bug Report](#triaging-a-bug-report)
 * [Resolving a Bug Report](#resolving-a-bug-report)
@@ -12,26 +11,15 @@
 For any issue, there are fundamentally three ways an individual can
 contribute:
 
-1. By opening the issue for discussion: For instance, if you believe that you
-   have uncovered a bug in Project Sample, creating a new issue in the `Code-and-Response/Project-Sample`
-   issue tracker is the way to report it.
+1. By opening the issue for discussion: Currently reporting a new issue will be by sending and email to arun.wagle@ibm.com. Mention the subject as <Issue:Bug/Enhancement Request>. Explain the issus in details in the body of the email.
 2. By helping to triage the issue: This can be done either by providing
    supporting details (a test case that demonstrates a bug), or providing
    suggestions on how to address the issue.
-3. By helping to resolve the issue: Typically this is done either in the form
-   of demonstrating that the issue reported is not a problem after all, or more
-   often, by opening a Pull Request that changes some bit of something in
-   `Code-and-Response/Project-Sample` in a concrete and reviewable manner.
 
 ## Asking for General Help
 
-The best place to ask for help is through the [Code and Response Slack workspace][]. Open an
-issue to request an invitation.
+The best place to ask for help is through an email to * arun.wagle@ibm.com *. 
 
-## Discussing non-technical topics
-
-Discussion of non-technical topics are also best to discuss in the #general channel 
-of the [Code and Response Slack workspace][].
 
 ## Submitting a Bug Report
 
@@ -65,6 +53,5 @@ In the vast majority of cases, issues are resolved by opening a Pull Request.
 The process for opening and reviewing a Pull Request isa similar to that of
 opening and triaging issues, but carries with it a necessary review and approval
 workflow that ensures that the proposed changes meet the minimal quality and
-functional guidelines of the Project Sample project.
+functional guidelines.
 
-[Code and Response Slack workspace]: https://code-and-response.slack.com/join/shared_invite/enQtNzUzOTAzNDE3MTM4LWM4M2VlOTA3OWNjMjY0ZTI4MjQ2OTBjYjYwNmQ1NTdhYjZhODE5NjFkN2QyNmRkNDI5OTFlZmVjYTFhMmMwYmU
