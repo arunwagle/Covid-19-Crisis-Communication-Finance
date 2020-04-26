@@ -24,12 +24,12 @@
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result banks, credit unions in most affected areas are taking precautionary measures by closing their facilities or reducing branch hours. Responses times to phone and email inquiries are longer than usual leading to increased anxiety and frustrations among customers. Information and guidelines by different goverment agencies changes by the hour in pandemic situations. Small businesses are at risk of closing due to Covid-19. 
+Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result banks, credit unions in most affected areas are taking precautionary measures by closing their facilities or reducing branch hours. Responses times to phone and email inquiries are longer than usual leading to increased anxiety and frustrations among customers. Information and guidelines by different goverment agencies changes by the hour in pandemic situations. Small businesses are at risk of closing due to COVID-19. 
 
-Among many studies, one study **suggests 18 million jobs at small businesses are at risk**
+Among many studies, one study suggests **18 million jobs at small businesses are at risk**
 https://kenaninstitute.unc.edu/kenan-insight/the-covid-19-pandemic-and-small-business-employment/
 
-We need alternate ways to help customers and small businesses in this times of crisis.
+We need alternate ways to help customers and small businesses in these times of crisis.
 
 Real world problems:
 
@@ -38,10 +38,17 @@ Real world problems:
 
 ### How can technology help?
 
-With the help of technology it is possible to create a platform which can provide easy access to information about banking services, payment services, small business administration and covid-19 specific questions. With technology we can provide customers and small businesses with access to right set of tools and information to survive and flourish in this difficult times.
+With the help of technology it is possible to create a platform which can provide easy access to information about banking services, payment services, small business administration and COVID-19 specific questions. With technology we can provide customers and small businesses with access to right set of tools and information to survive and flourish in this difficult times.
 
 
 ### The idea
+
+Providing a platform built using set of open source tools, backed by IBM Cloud and Watson Services, financial institutions can help people and small businesses with access to useful and frequently changing information. 
+With the platform financial institutions can provide 
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
 
