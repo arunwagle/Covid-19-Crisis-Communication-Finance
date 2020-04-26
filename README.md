@@ -33,7 +33,7 @@ We need alternate ways to help customers and small businesses in these times of 
 
 Real world problems:
 
-<img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem1.png" width="425"/> <img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem2.png" width="425"/> 
+<img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem3.png" width="425"/> <img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/problem2.png" width="425"/> 
 
 
 ### How can technology help?
