@@ -201,13 +201,15 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Arun Wagle** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Arun Wagle** - *Project Lead* - (https://github.com/arunwagle)
+* **Anjali Shah** - *Role: Technical SME* - (https://w3.ibm.com/bluepages/profile.html?uid=1J2706897)
+* **Mark Romagna** - *Role: Business* - (https://w3.ibm.com/bluepages/profile.html?uid=0G1028897)
+* **Mark Romagna** - *Role: Business* - (https://w3.ibm.com/bluepages/profile.html?uid=9D0586897)
 
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
 
 ## License
 
