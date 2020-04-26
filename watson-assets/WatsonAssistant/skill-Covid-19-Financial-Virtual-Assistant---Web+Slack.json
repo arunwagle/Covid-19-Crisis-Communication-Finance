@@ -1,0 +1,1713 @@
+{
+  "intents": [
+    {
+      "intent": "help_menu",
+      "examples": [
+        {
+          "text": "help"
+        },
+        {
+          "text": "menu"
+        }
+      ],
+      "description": "menu"
+    },
+    {
+      "intent": "sba_relief_availability",
+      "examples": [
+        {
+          "text": "How soon is the relief aid available?"
+        },
+        {
+          "text": "is the relief aid avaialble now?"
+        },
+        {
+          "text": "when is the relief aid available?"
+        },
+        {
+          "text": "When will the releif aid stop?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "payment_services_replace_cards",
+      "examples": [
+        {
+          "text": "Replace my debit card"
+        },
+        {
+          "text": "Replace my credit card"
+        },
+        {
+          "text": "How do I replace my credit card ?"
+        },
+        {
+          "text": "Replacement of checks"
+        },
+        {
+          "text": "How do I replace my debit card ?"
+        }
+      ]
+    },
+    {
+      "intent": "payment_services_defer_both_mortgage_card",
+      "examples": [
+        {
+          "text": "help with mortgage and credit card payments"
+        },
+        {
+          "text": "help with both"
+        },
+        {
+          "text": "defer both mortgage and credit card payments"
+        },
+        {
+          "text": "defer mortgage payment and also credit card payments"
+        },
+        {
+          "text": "help with mortgage payment and also with credit card payments"
+        }
+      ]
+    },
+    {
+      "intent": "init_covid_19_faq",
+      "examples": [
+        {
+          "text": "covid general help"
+        },
+        {
+          "text": "help with covid"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "payment_services_defer_mortgage_payment",
+      "examples": [
+        {
+          "text": "I cannot pay my mortgage payments"
+        },
+        {
+          "text": "defer my mortgage payments"
+        },
+        {
+          "text": "help with mortgage payments"
+        }
+      ]
+    },
+    {
+      "intent": "banking_services_branch_hours",
+      "examples": [
+        {
+          "text": "changes in branch hours"
+        },
+        {
+          "text": "Have your banking branch hours changed due to the Covid-19 crisis?"
+        },
+        {
+          "text": "What are your branch hours ?"
+        }
+      ]
+    },
+    {
+      "intent": "banking_services_contact_bank_issues",
+      "examples": [
+        {
+          "text": "banking internet site is not working"
+        },
+        {
+          "text": "issue contacting bank by web"
+        },
+        {
+          "text": "how do i get in touch with my bank ?"
+        },
+        {
+          "text": "i cannot reach my bank on phone"
+        },
+        {
+          "text": "issue contacting bank by phone"
+        }
+      ]
+    },
+    {
+      "intent": "covid19_faq",
+      "examples": [
+        {
+          "text": "Is there a vaccine for COVID-19"
+        },
+        {
+          "text": "can i travel now ?"
+        },
+        {
+          "text": "What is convalescent plasma"
+        },
+        {
+          "text": "Can i travel"
+        },
+        {
+          "text": "Is there a drug or treatment for COVID-19"
+        },
+        {
+          "text": "Is there a vaccine, drug or treatment for COVID-19"
+        },
+        {
+          "text": "How to put on a mask?"
+        },
+        {
+          "text": "How to put on, use, take off and dispose of a mask?"
+        }
+      ],
+      "description": "General FAQ for covid 19"
+    },
+    {
+      "intent": "sba_ppp_program",
+      "examples": [
+        {
+          "text": "Do you help with paycheck protection program"
+        },
+        {
+          "text": "I need help with PPP"
+        },
+        {
+          "text": "Do you guys have PPP ?"
+        },
+        {
+          "text": "I need assistance with the PPP"
+        },
+        {
+          "text": "I need help with SBA paycheck protection program"
+        },
+        {
+          "text": "Do you help with PPP"
+        }
+      ]
+    },
+    {
+      "intent": "banking_services_branch_locators",
+      "examples": [
+        {
+          "text": "branch locator"
+        },
+        {
+          "text": "show me my nearest branches"
+        },
+        {
+          "text": "help with locating bank branches"
+        },
+        {
+          "text": "branch_locators"
+        }
+      ]
+    },
+    {
+      "intent": "payment_services_credit_limit_inquries",
+      "examples": [
+        {
+          "text": "I want to defer my credit card payments"
+        },
+        {
+          "text": "How can I increase my line of credit?"
+        },
+        {
+          "text": "help with increasing credit card limit"
+        },
+        {
+          "text": "Will I be charged late fees for late payments on my credit card"
+        },
+        {
+          "text": "I am using my credit card to fund unexpected living expenses. What if I go over my credit limit?"
+        },
+        {
+          "text": "What if I go over my credit limit?"
+        },
+        {
+          "text": "how can I increase my credit limit?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "menu_main",
+      "examples": [
+        {
+          "text": "menu"
+        },
+        {
+          "text": "show me main menu"
+        },
+        {
+          "text": "main menu"
+        }
+      ]
+    },
+    {
+      "intent": "banking_services_protect_against_fraud",
+      "examples": [
+        {
+          "text": "how do i protect against fraud"
+        },
+        {
+          "text": "I got a call from an unknown number asking for my personal information"
+        },
+        {
+          "text": "how do i protect againts scams"
+        },
+        {
+          "text": "Protect me agains fraud"
+        }
+      ]
+    },
+    {
+      "intent": "payment_services_defer_payments",
+      "examples": [
+        {
+          "text": "defer payments"
+        },
+        {
+          "text": "help with payments"
+        }
+      ]
+    },
+    {
+      "intent": "init_bank_services",
+      "examples": [
+        {
+          "text": "help with bank operations"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "payment_services_defer_credit_card_payments",
+      "examples": [
+        {
+          "text": "help with credit card payments"
+        },
+        {
+          "text": "defer my credit card payment"
+        },
+        {
+          "text": "I am unable to pay my credit card bill by the due date, will the bank"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "payment_services_use_home_equity",
+      "examples": [
+        {
+          "text": "Can I leverage my equity in my home to pay off rising debt?"
+        },
+        {
+          "text": "leveraging home equity for debt payment"
+        },
+        {
+          "text": "leverage home equity during covid-19 to pay debt"
+        }
+      ]
+    },
+    {
+      "intent": "init_sba_services",
+      "examples": [
+        {
+          "text": "Help with SBA"
+        }
+      ]
+    },
+    {
+      "intent": "banking_services_senior_customers",
+      "examples": [
+        {
+          "text": "special hours for customers who are senior citizens"
+        },
+        {
+          "text": "special hours for senior customers"
+        },
+        {
+          "text": "Are there special banking branch hours for Senior customers?"
+        }
+      ]
+    },
+    {
+      "intent": "sba_cares_eligibility",
+      "examples": [
+        {
+          "text": "Am I eligible for the relief aid?"
+        },
+        {
+          "text": "who is elegible for stimulus"
+        },
+        {
+          "text": "Who is eligible for the relief aid?"
+        },
+        {
+          "text": "Who is eligible for the stimulus bill?"
+        },
+        {
+          "text": "Am I eligible for the stimulus bill?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "banking_services_restricted_access_bank_facilities",
+      "examples": [
+        {
+          "text": "branch closed"
+        },
+        {
+          "text": "Restricted access to bank due to covid-19"
+        },
+        {
+          "text": "Restricted access to bank due to covid"
+        },
+        {
+          "text": "how do i cash if my banks are closed ?"
+        }
+      ]
+    },
+    {
+      "intent": "sba_available_services",
+      "examples": [
+        {
+          "text": "What services are available for small business during covid-19"
+        },
+        {
+          "text": "I need small business assistance"
+        },
+        {
+          "text": "I need help with SBA program"
+        },
+        {
+          "text": "services available for SBA"
+        },
+        {
+          "text": "services available for SBA during covid-19"
+        },
+        {
+          "text": "how can you help small business during covid-19"
+        }
+      ]
+    },
+    {
+      "intent": "banking_services_deposit_check_issue",
+      "examples": [
+        {
+          "text": "How to deposit checks from mobile ?"
+        },
+        {
+          "text": "deposit check using mobile app"
+        },
+        {
+          "text": "How do I deposit check in case my banks are closed ?"
+        },
+        {
+          "text": "deposit check if branch is closed"
+        },
+        {
+          "text": "How can I deposit check"
+        }
+      ]
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "No Thanks"
+        },
+        {
+          "text": "many thanks"
+        },
+        {
+          "text": "i appreciate it"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "much appreciated"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "that's nice of you"
+        }
+      ],
+      "description": "Thanks"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "holiday",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "new years",
+          "synonyms": [
+            "1/1",
+            "jan 1",
+            "jan 1st",
+            "jan first",
+            "january 1",
+            "january 1st",
+            "january first",
+            "new year",
+            "new year day",
+            "new years day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "independence day",
+          "synonyms": [
+            "7/4",
+            "fourth of july",
+            "july 4",
+            "july 4th",
+            "july fourth"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "thanksgiving",
+          "synonyms": [
+            "turkey day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "memorial day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas eve",
+          "synonyms": [
+            "x mas eve",
+            "x-mas eve",
+            "xmas eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "new years eve",
+          "synonyms": [
+            "12-31",
+            "12/31",
+            "dec 31",
+            "dec 31st",
+            "new year's eve"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "valentine's day",
+          "synonyms": [
+            "valentine day",
+            "valentines day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "labor day",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "christmas",
+          "synonyms": [
+            "christmas day",
+            "x man day",
+            "xmas",
+            "x mas",
+            "x-mas",
+            "x-mas day",
+            "xmas day"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "halloween",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "zipcode",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "(\\d{5})",
+          "patterns": []
+        },
+        {
+          "type": "patterns",
+          "value": "(^\\d{5}$)|(^\\d{9}$)|(^\\d{5}-\\d{4}$)",
+          "patterns": []
+        },
+        {
+          "type": "synonyms",
+          "value": "07071",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "07078",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "married_or_single",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "married",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "single",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yes",
+            "you bet",
+            "you betcha",
+            "yep"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "PPP",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Paycheck Protection Program",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "PPP",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": []
+    },
+    {
+      "entity": "income",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "income_by_pattern",
+          "patterns": [
+            "(\\d{10})"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "$1000",
+          "synonyms": [
+            "1000 dollars",
+            "2000 dollars",
+            "200K",
+            "300 K",
+            "2000",
+            "30000"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "state",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "specialist",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Derrik",
+          "synonyms": [
+            "derek",
+            "derik",
+            "derrik",
+            "derrick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Barbara",
+          "synonyms": [
+            "barbra"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Brenda",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Robert",
+          "synonyms": [
+            "bob"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Nicholas",
+          "synonyms": [
+            "nick"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Maria",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Phone pattern",
+          "patterns": [
+            "(\\d{3})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "married_filing_jointly",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "nope",
+            "nah"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "yeah",
+            "yep"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "SBA",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "SBA",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Small Business Administration",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "<? (returning_from_digression)? \"Now, let's get back to where we left off.\nDo you file joint tax returns (Yes/No) ?\" : \"Do you file joint tax returns (Yes/No) ?\" ?>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1587670940395",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1587670940404",
+      "previous_sibling": "handler_8_1587670940404"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1587670940395",
+      "context": {
+        "married_filing_jointly": "@married_filing_jointly"
+      },
+      "conditions": "@married_filing_jointly",
+      "event_name": "input",
+      "dialog_node": "handler_8_1587670940404"
+    },
+    {
+      "type": "standard",
+      "title": "Restricted Access To Bank Facilities",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Contact our support line (1-877-ASK-BANK) to ask for assistance in meeting your banking needs. We are offering expanded services through the use of drive-up teller windows, or providing assistance at ATMs located outside of the branch office. Bank employees may also help you set up or use online banking, or the bank’s mobile app and digital channels, to complete transactions such as depositing a check to your bank account or paying bills. In addition, you may want to consider signing up for direct deposit so that a paycheck or public benefits payment goes directly into your account at the bank."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#banking_services_restricted_access_bank_facilities",
+      "dialog_node": "node_10_1585497622253",
+      "previous_sibling": "node_12_1585498341827"
+    },
+    {
+      "type": "frame",
+      "title": "Senior Customer Hours",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are currently offering 8-9AM special branch office hours for Seniors (customers greater than 60 years of age) only due to Covid-19 social distancing guidelines"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#banking_services_senior_customers",
+      "dialog_node": "node_9_1585625690277",
+      "previous_sibling": "node_5_1585625066302"
+    },
+    {
+      "type": "standard",
+      "title": "FDIC Bank Find Tool",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Some bank branches heavily impacted by COVID-19 may have limited personnel in place to help with regular banking operations and some may need to temporarily close to protect their employees. \nYou can use our mobile banking app to deposit checks and view account balance.\n<a href='https://generic-covid19-assistant.mybluemix.net/mobile_banking.html' target='_blank'> Fast and simple deposits - No ATM required</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#banking_services_contact_bank_issues",
+      "dialog_node": "node_11_1585498076379",
+      "previous_sibling": "node_9_1585625690277"
+    },
+    {
+      "type": "standard",
+      "title": "Protect Against Fraud",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Protect your personal and financial information from fraud.\n a. Understand that some people may take advantage of COVID-19 by using fraudulent websites, phone calls, emails, and text messages claiming to offer “help” but may be trying to trick people into providing Social Security numbers, bank account numbers, and other valuable details. \n b. Do not divulge your bank or credit card numbers or other personal information over the phone unless you initiated the conversation with the other party and you know that it is a reputable organization. \n c. In addition, you should be cautious about online solicitations. Be on guard against imposters who contact you claiming to be government employees or volunteers and who ask for personal financial information or money.\n d. Reject offers to cash a check for someone in exchange for a fee, even if the bank makes the funds available to you right away, as it may later turn out that the check was fraudulent"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#banking_services_protect_against_fraud",
+      "dialog_node": "node_12_1585498341827",
+      "previous_sibling": "node_5_1585594640642"
+    },
+    {
+      "type": "frame",
+      "title": "Branch Hours",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Current branch hours for $town are as follows:  \nMonday:  10:00 AM - 4:00 PM \nTuesday:  10:00 AM - 4:00 PM\nWednesday:  10:00 AM - 4:00 PM\nThursday:  10:00 AM - 4:00 PM\nFriday:  10:00 AM - 4:00 PM\nSaturday:  9:00 AM - 1:00 PM\nSunday: Closed\nATM Hours: Open 24 Hours. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#banking_services_branch_hours",
+      "dialog_node": "node_5_1585625066302",
+      "previous_sibling": "node_9_1585589090455"
+    },
+    {
+      "type": "frame",
+      "title": "Branch Locator",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<a href=\"https://generic-covid19-assistant.mybluemix.net/locations.html\" target=\"_blank\">Bank Branch Locations</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#banking_services_branch_locators",
+      "dialog_node": "node_9_1585589090455",
+      "previous_sibling": "node_1_1585504316917"
+    },
+    {
+      "type": "standard",
+      "title": "Deposit Checks Issues",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Some bank branches heavily impacted by COVID-19 may have limited personnel in place to help with regular banking operations and some may need to temporarily close to protect their employees. You can use our mobile banking app to deposit checks and view account balance.</b>\n<a href=\"mobile_banking.html\" target=\"_blank\">Fast and simple deposits - No ATM required</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#banking_services_deposit_check_issue",
+      "dialog_node": "node_5_1585594640642",
+      "previous_sibling": "node_11_1585498076379"
+    },
+    {
+      "type": "standard",
+      "title": "Help With Banking Operations",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We can certainly help you. What would you like help with today ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585427609297",
+      "conditions": "#init_bank_services",
+      "dialog_node": "node_1_1585504316917"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "<? (returning_from_digression)? \"Now, let's get back to where we left off.\nPlease provide your total household income ??\" : \"Please provide your total household income ?\" ?>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1587657545823",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1587657545832",
+      "previous_sibling": "handler_3_1587657545832"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1587657545823",
+      "context": {
+        "income": "@income"
+      },
+      "conditions": "@income",
+      "event_name": "input",
+      "dialog_node": "handler_3_1587657545832"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_5_1585625066302",
+      "variable": "$town",
+      "dialog_node": "slot_6_1585625066306"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "<? (returning_from_digression)? \"Now, let's get back to where we left off.\nAre you single or married ?\" : \"Are you single or married ?\" ?>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_5_1587656645435",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1587656645457",
+      "previous_sibling": "handler_2_1587656645457"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1587656645435",
+      "context": {
+        "married_or_single": "@married_or_single"
+      },
+      "conditions": "@married_or_single",
+      "event_name": "input",
+      "dialog_node": "handler_2_1587656645457"
+    },
+    {
+      "type": "standard",
+      "title": "Main Menu",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1587743540120",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Opening"
+      },
+      "conditions": "#menu_main",
+      "dialog_node": "node_7_1587487369043"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1587656429482",
+      "variable": "$married_or_single",
+      "dialog_node": "slot_5_1587656645435",
+      "previous_sibling": "response_5_1587657728984"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1587656429482",
+      "variable": "$income",
+      "dialog_node": "slot_5_1587657545823",
+      "previous_sibling": "slot_5_1587670940395"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The US government approved and passed the the $2.2 trillion stimulus bill to provide help for citizens affected by the COVID_19 pandemic and its affects on individuals and small and medium business. The IRS says that payments will go out automatically to those who authorized a direct deposit for their refunds on either their 2019 or 2018 tax return. Please access more reliable information on the IRS website here: https://home.treasury.gov/policy-issues/top-priorities/cares-act"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1587656429482",
+      "conditions": "$married_or_single==\"married\"",
+      "dialog_node": "response_3_1587657086708",
+      "previous_sibling": "handler_2_1587658281838"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_1_1587656429482",
+      "variable": "$married_filing_jointly",
+      "conditions": "$married_or_single==\"married\"",
+      "dialog_node": "slot_5_1587670940395",
+      "previous_sibling": "slot_5_1587656645435"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ingle"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1587656429482",
+      "conditions": "$married_or_single==\"single\"",
+      "dialog_node": "response_5_1587657728984",
+      "previous_sibling": "response_3_1587657086708"
+    },
+    {
+      "type": "event_handler",
+      "parent": "node_1_1587656429482",
+      "disabled": true,
+      "event_name": "focus",
+      "dialog_node": "handler_2_1587658281838"
+    },
+    {
+      "type": "standard",
+      "title": "SBA Paycheck Protection Program",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are a preferred lender for the Small Business Administration (SBA) and can help businesses complete and submit their applications for the SBA’s Paycheck Protection Program. \nThrough this program, businesses are able to access up to $10 million at a 1% interest rate, with up to 2-year terms. \nAll SBA fees will be waived, and the first payment will be deferred for six months. \nThe government has committed to forgive a portion of the debt if employment is maintained."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1587496114292",
+      "conditions": "#sba_ppp_program",
+      "dialog_node": "node_4_1587496569652",
+      "previous_sibling": "node_4_1587496149271"
+    },
+    {
+      "type": "standard",
+      "title": "SBA Relief Availability",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The US government approved and passed the $2.2 trillion stimulus bill to provide help for citizens affected by the COVID_19 pandemic and its effects on individuals and small and medium business. The IRS says that payments will go out automatically to those who authorized a direct deposit for their refunds on either their 2019 or 2018 tax return.\nPlease access more reliable information on the IRS website here: https://home.treasury.gov/policy-issues/top-priorities/cares-act"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1587496114292",
+      "conditions": "#sba_relief_availability",
+      "dialog_node": "node_10_1587655892750",
+      "previous_sibling": "node_3_1587497111593"
+    },
+    {
+      "type": "standard",
+      "title": "SBA Available Services",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We know that many businesses are facing challenges created by the COVID-19 pandemic. We can help businesses cut costs, manage their cash flow, or adapt to current circumstances, through timely business services including:\na. The option to defer payments on business loans by up to 60 days without being charged a service fee.\nb. Low-rate Business Visa® credit cards and business lines of credit.\nc. Merchant services that give them the ability to accept credit card payments online or at physical locations.\nd. Remote Deposit systems that let them deposit checks without needing to visit a branch.\nOur Business Center is ready to help business owners understand what options & services are available during this difficult time, and to identify the solutions that are right for them. Members can call (800) 215-5557 to speak with a Business Services representative or to schedule an appointment."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1587496114292",
+      "conditions": "#sba_available_services",
+      "dialog_node": "node_4_1587496149271",
+      "previous_sibling": "node_1_1587656429482"
+    },
+    {
+      "type": "frame",
+      "title": "SBA Relief Eligibility",
+      "parent": "node_8_1587496114292",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#sba_cares_eligibility",
+      "dialog_node": "node_1_1587656429482",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_10_1587655892750",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "Help with SBA",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We can certainly help you. What can I do for you today ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1587496114292",
+      "conditions": "#init_sba_services",
+      "dialog_node": "node_3_1587497111593"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter the city where you want to locate branch"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_6_1585625066306",
+      "event_name": "focus",
+      "dialog_node": "handler_8_1585625066306",
+      "previous_sibling": "handler_7_1585625066306"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1585625066306",
+      "context": {
+        "town": "@sys-location"
+      },
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_7_1585625066306"
+    },
+    {
+      "type": "standard",
+      "title": "General FAQ",
+      "output": {
+        "generic": [
+          {
+            "query": "",
+            "filter": "",
+            "query_type": "natural_language",
+            "response_type": "search_skill"
+          }
+        ]
+      },
+      "parent": "node_9_1587484427811",
+      "conditions": "#covid19_faq",
+      "dialog_node": "node_8_1587484529514",
+      "previous_sibling": "node_1_1587486739395"
+    },
+    {
+      "type": "standard",
+      "title": "covid general help",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We can certainly help you. What would you like help with today ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1587484427811",
+      "conditions": "#init_covid_19_faq",
+      "dialog_node": "node_1_1587486739395"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Please enter the city where you want to locate branch"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_10_1585589384383",
+      "event_name": "focus",
+      "dialog_node": "handler_9_1585589384392",
+      "previous_sibling": "handler_5_1585589384392"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1585589384383",
+      "context": {
+        "town": "@sys-location"
+      },
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_5_1585589384392"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_9_1585589090455",
+      "variable": "$town",
+      "dialog_node": "slot_10_1585589384383"
+    },
+    {
+      "type": "standard",
+      "title": "Defer Credit Card Payments",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to the Covid-19 crisis, the Bank has instituted a temporary additional 30-day grace period for all credit card bill due dates. You will now have an additional 30-day to pay your bill without incurring a late fee."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585500527277",
+      "conditions": "#payment_services_defer_credit_card_payments",
+      "user_label": "Defer credit card payments",
+      "dialog_node": "node_2_1585504475111",
+      "previous_sibling": "node_8_1585623506745"
+    },
+    {
+      "type": "standard",
+      "title": "Credit Limit Inquiries",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We are increasing credit card limits for creditworthy borrowers.  \n\nPlease apply for credit limit increase at <a href=\"https://covid-19-bank-demo.us-east.mybluemix.net/credit_limit_form.pdf\" target=\"_blank\">Credit Limit Increase Application </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585500527277",
+      "conditions": "#payment_services_credit_limit_inquries",
+      "dialog_node": "node_3_1585500527283",
+      "previous_sibling": "node_2_1585623812214"
+    },
+    {
+      "type": "standard",
+      "title": "Replace Cards",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<p>Contact your financial institution. You can call the FDIC’s toll-free number 1-877-ASK- FDIC (1-877-275-3342) for bank contact information. Once connected, your financial institution should explain the process for replacing your cards, checks, and financial records. If you kept documents in your bank’s safe deposit box, you may want to inquire to the institution about how you can access your box.</p><p>For credit cards, if you are unsure of which financial institution issued your card, contact information for the four major credit card companies appears below:<ul>\n<li>American Express – 1-800-528-4800 or TDD 1-800-221-9950<a href=\"www.americanexpress.com/us/content/fraud-protection- center/what-you-can-do.html\">American Express-Fraud Protection</a></li><li>Discover – 1-800-DISCOVER (1-800-347-2683) or TDD 1-800-347-7449<a href=\"www.discover.com/credit-cards/help-center/faqs/fraud.html\">Discover-Fraud Protection</a></li>\n<li>MasterCard – 1-800-627-8372<a href=\"www.mastercard.us/en-us/consumers/get-support.html\">MasterCard- Fraud Protection</a>Visa – 1-800-VISA-911 (1-800-847-2911)<a href=\"https://usa.visa.com/support.html/\">Visa-Fraud Protection</a></li></ul></p><p>If you do not remember the credit cards you have, you can obtain your credit report from one of the three major credit bureaus (Equifax at 1-800-525-6285, Experian at 1-888-397-3742, or TransUnion at 1-800-680-7289). Your credit report should list all credit cards in your name and a copy of this information may be provided to you at no cost under a new federal law. For details, contact a central service set up by the credit bureaus at 1-877-322-8228 or go to <a href=\"www.annualcreditreport.com/index.action\">annualcreditreport</a>.</p>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585500527277",
+      "conditions": "#payment_services_replace_cards",
+      "dialog_node": "node_4_1585500527283",
+      "previous_sibling": "node_1_1587770912255"
+    },
+    {
+      "type": "standard",
+      "title": "Help With Both",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to the Covid-19 crisis, the Bank has instituted a temporary additional 60-day grace period for all mortgage due dates. You will now have an additional 60-day to pay your mortgage bill without incurring a late fee.\n\nAdditionally, the Bank has instituted a temporary additional 30-day grace period for all credit card bill due dates. You will now have an additional 30-day to pay your bill without incurring a late fee."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585500527277",
+      "conditions": "#payment_services_defer_both_mortgage_card",
+      "user_label": "Defer both mortgage and credit card payments",
+      "dialog_node": "node_2_1585623812214",
+      "previous_sibling": "node_1_1585623320567"
+    },
+    {
+      "type": "standard",
+      "title": "Defer Mortgage Payments",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to the Covid-19 crisis, the Bank has instituted a temporary additional 60-day grace period for all mortgage due dates. You will now have an additional 60-day to pay your mortgage bill without incurring a late fee."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585500527277",
+      "conditions": "#payment_services_defer_mortgage_payment",
+      "user_label": "Defer mortgage payment",
+      "dialog_node": "node_1_1585623320567",
+      "previous_sibling": "node_2_1585504475111"
+    },
+    {
+      "type": "standard",
+      "title": "Use Home Equity To Pay Debts",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yes. Due to the Covid-19 crisis, the Bank has recently raised the Debt/Equity ratio to 55% for Home Equity Loans (HELOC) from its previous 45% limit to accommodate our customer needs for additional funds. To apply for a special Covid-19 HELOC rate call 1-800-4-HELOCS."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1585500527277",
+      "conditions": "#payment_services_use_home_equity",
+      "dialog_node": "node_1_1587770912255",
+      "previous_sibling": "node_3_1585500527283"
+    },
+    {
+      "type": "standard",
+      "title": "Defer Payments",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to the Covid-19 crisis, we can certainly help you if you have trouble keeping up with your payments. Tell us more about what type of payments you need help with."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Please select from the following:",
+            "options": [
+              {
+                "label": "Defer credit card payment",
+                "value": {
+                  "input": {
+                    "text": "help with credit card payment"
+                  }
+                }
+              },
+              {
+                "label": "Defer mortgage payment",
+                "value": {
+                  "input": {
+                    "text": "help with mortgage payment"
+                  }
+                }
+              },
+              {
+                "label": "Both",
+                "value": {
+                  "input": {
+                    "text": "help with both"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1585500527277",
+      "conditions": "#payment_services_defer_payments",
+      "user_label": "Defer payments",
+      "dialog_node": "node_8_1585623506745"
+    },
+    {
+      "type": "standard",
+      "title": "Anything Else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Let me look through the information that I have..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "query": "",
+            "filter": "",
+            "query_type": "natural_language",
+            "response_type": "search_skill"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "digress_in": "returns",
+      "dialog_node": "node_2_1467831978407",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_2_1468243505617",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "folder",
+      "title": "Payments",
+      "digress_in": "returns",
+      "dialog_node": "node_1_1585500527277",
+      "previous_sibling": "node_1_1585427609297"
+    },
+    {
+      "type": "folder",
+      "title": "Bank Operations",
+      "dialog_node": "node_1_1585427609297",
+      "previous_sibling": "node_1_1587743540120"
+    },
+    {
+      "type": "folder",
+      "title": "General Covid FAQ (Covid-19, IRS economic impact payments)",
+      "conditions": "",
+      "dialog_node": "node_9_1587484427811",
+      "previous_sibling": "node_8_1587496114292"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "text": {
+          "values": [
+            "You're welcome. Have a wonderful day.",
+            "You're welcome. Please feel free to ask any questions you have.",
+            "My pleasure. Stay safe."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Thanks",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1468243505617",
+      "previous_sibling": "node_9_1587484427811"
+    },
+    {
+      "type": "folder",
+      "title": "Help",
+      "dialog_node": "node_1_1587743540120",
+      "previous_sibling": "Opening"
+    },
+    {
+      "type": "folder",
+      "title": "Small Business Administration (SBA) ",
+      "digress_in": "returns",
+      "dialog_node": "node_8_1587496114292",
+      "previous_sibling": "node_1_1585500527277"
+    },
+    {
+      "type": "standard",
+      "title": "Opening",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I’m the virtual assistant for bank customers affected by Coronavirus Disease 2019. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "You can type your question or click on one of the options below:",
+            "options": [
+              {
+                "label": "SBA Services",
+                "value": {
+                  "input": {
+                    "text": "help with sba"
+                  }
+                }
+              },
+              {
+                "label": "Payments Services",
+                "value": {
+                  "input": {
+                    "text": "help with payments"
+                  }
+                }
+              },
+              {
+                "label": "Banking Services",
+                "value": {
+                  "input": {
+                    "text": "help with locating bank branches"
+                  }
+                }
+              },
+              {
+                "label": "COVID-19 FAQ",
+                "value": {
+                  "input": {
+                    "text": "covid general help"
+                  }
+                }
+              }
+            ],
+            "preference": "button",
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "context": {},
+      "metadata": {},
+      "conditions": "welcome",
+      "digress_in": "does_not_return",
+      "dialog_node": "Opening"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "in 3 days"
+    },
+    {
+      "text": "is there a test kit for the coronavirus"
+    },
+    {
+      "text": "what are my options?"
+    },
+    {
+      "text": "where in the USA is coronavirus"
+    },
+    {
+      "text": "where is COVID-19 in Texas"
+    },
+    {
+      "text": "who is the head of this"
+    },
+    {
+      "text": "will airports remain open"
+    }
+  ],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    },
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "user_label",
+      "none_of_the_above_prompt": "None of the above."
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Covid-19 Financial Virtual Assistant - Web+Slack",
+  "language": "en",
+  "description": "Chat bot that delivers important information about COVID-19 virus outbreak."
+}
