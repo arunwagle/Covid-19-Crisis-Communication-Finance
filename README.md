@@ -205,7 +205,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Arun Wagle** - *Project Lead* - (https://github.com/arunwagle)
+* **Arun Wagle** - *Project Lead* - (https://w3.ibm.com/bluepages/profile.html?uid=1J2509897)
 * **Anjali Shah** - *Role: Technical SME* - (https://w3.ibm.com/bluepages/profile.html?uid=1J2706897)
 * **Mark Romagna** - *Role: Business* - (https://w3.ibm.com/bluepages/profile.html?uid=0G1028897)
 * **Mark Romagna** - *Role: Business* - (https://w3.ibm.com/bluepages/profile.html?uid=9D0586897)
@@ -217,4 +217,4 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## Acknowledgments
 
-* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+* TODO
