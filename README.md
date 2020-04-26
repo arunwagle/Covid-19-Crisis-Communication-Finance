@@ -165,7 +165,7 @@ npx eslint sample-file.js
 ## Live demo
 
 You can find a running system to test at https://generic-covid19-assistant.mybluemix.net/
-Click on <img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/chat-icon"/> to invoke the virtual assistant.
+Click on <img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/chat-icon.png"/> to invoke the virtual assistant.
 
 ## Built with
 
