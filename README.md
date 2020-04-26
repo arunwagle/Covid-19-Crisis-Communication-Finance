@@ -43,14 +43,38 @@ With the help of technology it is possible to create a platform which can provid
 
 ### The idea
 
-Providing a platform built using set of open source tools, backed by IBM Cloud and Watson Services, financial institutions can help people and small businesses with access to useful and frequently changing information. 
-With the platform financial institutions can provide 
-* Item 1
-* Item 2
-  * Item 2a
-  * Item 2b
+> Providing a platform built using set of open source tools, backed by IBM Cloud and Watson Services, financial institutions can help people and small businesses with access to useful and frequently changing information. 
+> This platform is totally extensible and is able to handle any pandemic situations. 
+> The idea is to be able to provide rapidly changing information from various goverment agencies as well as from the financial institutions in a matter of minutes.
+> Omni channel experience including Web, Mobile, Voice, SMS and Slack.
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+With this platform, financial institutions can provide easy access to information on (few examples)
+* Small Business Administration (SBA) 
+  * SBA Relief Availability
+  * SBA Relief Eligibility
+  * SBA Available Services
+  * SBA Paycheck Protection Program
+* Payment Services
+  * Defer Credit Card Payments
+  * Defer Mortgage Payments
+  * Credit Limit Inquiries
+  * Use Home Equity To Pay Debts
+  * Replace Cards
+* Banking Services
+  * Branch Locator
+  * Branch Hours
+  * Senior Customer Hours
+  * FDIC Bank Find Tool
+  * Deposit Checks Issues
+  * Protect Against Fraud
+  * Restricted Access To Bank Facilities
+* CVOID-19 FAQ
+  * Can I travel now?
+  * Can I put on a mask ?
+  * Is there a vaccine for COVID-19 ?
+  * How will the IRS know where to send my payment?
+
+
 
 ## Demo video
 
