@@ -34,7 +34,6 @@ so that you can make the actual changes. This is where we will start.
   * [Getting Approvals for your Pull Request](#getting-approvals-for-your-pull-request)
   * [CI Testing](#ci-testing)
   * [Waiting Until the Pull Request Gets Landed](#waiting-until-the-pull-request-gets-landed)
-  * [Check Out the Collaborator Guide](#check-out-the-collaborator-guide)
 
 ## Dependencies
 
@@ -481,11 +480,4 @@ that everyone has a chance to weigh in. If the changes are trivial,
 collaborators may decide it doesn't need to wait. A Pull Request may well take
 longer to be merged in.
 
-### Check Out the Collaborator Guide
 
-If you want to know more about the code review and the landing process, see the
-[Collaborator Guide][].
-
-[Code of Conduct]: https://github.com/Code-and-Response/Project-Sample/doc/guides/coc.md
-[Collaborator Guide]: ../../../CONTRIBUTING.md
-[Project Sample Slack workspace]: https://code-and-response.slack.com/join/shared_invite/enQtNzUzOTAzNDE3MTM4LWM4M2VlOTA3OWNjMjY0ZTI4MjQ2OTBjYjYwNmQ1NTdhYjZhODE5NjFkN2QyNmRkNDI5OTFlZmVjYTFhMmMwYmU
