@@ -1,11 +1,17 @@
 # Setup
 
-1. [Create a free IBM Cloud Account](#create-free-ibm-account)
-2. [Setup IBM Services](#setup-ibm-services)
-3. [Deploy Web Application](#deploy-web-application)
-4. [Deploy Voice + SMS Virtual Assistant](#deploy-voice-sms-va)
-5. [Deploy SMS Virtual Assistant](#deploy-sms-va)
-6. [Deploy Slack Virtual Assistant](#deploy-slack-va)
+1. [Clone the repository](#clone-repo)
+2. [Create a free IBM Cloud Account](#create-free-ibm-account)
+3. [Setup IBM Services](#setup-ibm-services)
+4. [Deploy Web Application](#deploy-web-application)
+5. [Deploy Voice + SMS Virtual Assistant](#deploy-voice-sms-va)
+6. [Deploy SMS Virtual Assistant](#deploy-sms-va)
+7. [Deploy Slack Virtual Assistant](#deploy-slack-va)
+
+## Clone repository
+`
+   git clone https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance.git   
+`
 
 ## Create a free IBM Cloud Account
 
@@ -24,7 +30,11 @@ Note: Refer to [How to import dialog skill](https://cloud.ibm.com/docs/assistant
 
 4. Create SMS dialog skill by importing the [skill-Covid-19-Financial-Virtual-Assistant---SMS.json](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---SMS.json)
 
-5. Once all the skills are created, you can use "Try it Out" pane to test your skill.
+5. Create Search Skill "Covid-19 FAQ Search Skill" in Watson Assistant. Select Title = "extracted_metadata.title", Body = "text" and URL = "metadata.source.url" 
+Note: [Refer to](https://cloud.ibm.com/docs/assistant?topic=assistant-skill-search-add)
+**This step has to be completed after the Watson Discovery setup is completed **
+
+6. Once all the skills are created, you can use "Try it Out" pane to test your skill.
 Note: Refer to [Try it out](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial#tutorial-test-menu-options-intent)
 
 ### Watson Discovery
@@ -52,8 +62,6 @@ Note: Refer to [Try it out](https://cloud.ibm.com/docs/assistant?topic=assistant
    
 3. Choose a **Sync frequency** to "once a day"
 
-4. Create Search Skill "Covid-19 FAQ Search Skill" in Watson Assistant. Select Title = "extracted_metadata.title", Body = "text" and URL = "metadata.source.url"
-   Note [Refer to](https://cloud.ibm.com/docs/assistant?topic=assistant-skill-search-add)
    
 ### Speech to Text
 [Create Speech To Text Service](https://cloud.ibm.com/docs/services/speech-to-text?topic=speech-to-text-gettingStarted#getting-started-tutorial)
@@ -74,13 +82,34 @@ Note: Refer to [Try it out](https://cloud.ibm.com/docs/assistant?topic=assistant
       1. Call the phone number that you configured to speak to your voice agent. If you hear a response, your voice agent is active. OR
       2. Text the phone number that you configured to initiate an SMS session. If you receive an SMS back, your SMS agent is active.
 
+
 ## Deploy Web Application
 
-When opening a new issue in the `Code-and-Response/Project-Sample` issue tracker, please provide as much
-detail about your environment as possible.
+### Create Assistant 
 
-See [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve).
+Create Assistant [Link](https://cloud.ibm.com/docs/assistant?topic=assistant-assistant-add)
+1. Select the Covid-19 Financial Virtual Assistant - Web+Slack created in the above step
+2. Select the Covid-19 FAQ Search Skill created in the above step
+3. Add Integrations
+   1. Add Web Chat integration [Link](https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-web-chat)   
+   2. Copy the script that is generated as a part of the creation step. This needs to be copied to the index.html file located under [index.html](/generic-covid19-assistant/public/index.html)
+   3. Go to the location of the clone directory on your machine and open "/generic-covid19-assistant/public/index.html". 
+   
+   ```
+   Replace 
+   <script src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js"></script>
+   <script>
+     window.loadWatsonAssistantChat({
+       integrationID: "441e78a5-7270-4e86-86da-462717ed4133", // The ID of this integration.
+       region: "us-south" // The region your integration is hosted in.
+     }).then(function(instance){
+       instance.render();
+     });
+   </script>
 
+   with the script that got generated from above.
+   ```
+   
 ## Deploy Voice + SMS Virtual Assistant
 
 Once an issue has been opened, it is not uncommon for there to be discussion
