@@ -112,7 +112,7 @@ TODO
 COVID-19 assistant for financial institutions is an omni channel virtual assistant. It will help the users of this application to get answers to frequently asked questions during crisis on topics of payments services, banking services small business administration relief and Covid-19. 
 This application also gets information from DOL, Harvard Health, WHO, CDC, IRS on FAQ and is refreshed every day(can be configured to refresh every hour) to provide the latest updates. With this application we beleive that financial customers can get realtime information without having to wait for a long time and small business owners can get assistance with CARES act and paycheck protection programs specific to their institutions as well as the policies of the goverment.
 
-![Detailed PDF](/design-docs/IBM-Watson-for-Banking-CallCenters-COVID-19-Final-Handout.pdf)
+**[Detailed PDF](/design-docs/IBM-Watson-for-Banking-CallCenters-COVID-19-Final-Handout.pdf)**
 
 ## Project roadmap
 
