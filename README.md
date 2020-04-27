@@ -120,41 +120,24 @@ This application also gets information from DOL, Harvard Health, WHO, CDC, IRS o
 https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png
 
 ## Getting started
+These instructions will help you deploy the virtual assistant on your IBM Cloud instance.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### High Level Steps
 
-### Prerequisites
+1. Create a free IBM Cloud Account
+2. Setup IBM Services
+   1. Watson Assistant 
+   2. Watson Discovery
+   3. Speech to Text
+   4. Text to Speech
+   5. Voice Agent with Watson
+3. Deploy Web Application
+4. Deploy Voice + SMS Virtual Assistant
+5. Deploy SMS Virtual Assistant
+6. Deploy Slack Virtual Assistant
 
-What things you need to install the software and how to install them
-
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be, for example
-
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
-
-And repeat
-
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Refer to step by step that tell you how to get a development env running.
+![Setup](setup/instructions.md)
 
 ## Running the tests
 
@@ -167,15 +150,6 @@ Scripts folder: https://github.com/arunwagle/Covid-19-Crisis-Communication-Finan
 
 Live demo below can be used to test.
 
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instnance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
 
 ## Live demo
 
