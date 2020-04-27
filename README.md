@@ -84,8 +84,9 @@ With this platform, financial institutions can provide easy access to informatio
 
 ## Demo video
 
-### 3 minute video 
-TODO
+### 4 minute video 
+
+[![Watch the video](/images/4min-video-screen.png)](https://ibm.box.com/s/r70btxeksmdzj9pt7sfhm95mismknjkg)
 
 ### Detailed video
 
@@ -93,7 +94,7 @@ TODO
 
 ## The architecture
 
-![Concecptual Architecture](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/conceptual-arc.png)
+![Concecptual Architecture](/design-docs/images/conceptual-arc.png)
 
 1. The user can interact with the virtual assistant using 
    1. Web
@@ -116,10 +117,10 @@ This application also gets information from DOL, Harvard Health, WHO, CDC, IRS o
 
 ## Project roadmap
 
-![Roadmap](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png)
+![Roadmap](/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png)
 
-*Link to file*
-https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png
+### [Link to file](/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png) 
+
 
 ## Getting started
 These instructions will help you deploy the virtual assistant on your IBM Cloud instance.
@@ -143,7 +144,7 @@ These instructions will help you deploy the virtual assistant on your IBM Cloud 
 ## Running the tests
 
 Once deployed, run the scripts. 
-Scripts folder: https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/tree/master/demo-scripts
+### [Demo Scripts Folder](/demo-scripts)
 
 1. DemoScript-Covid-19-Finance-Web+Slack.docx
 2. DemoScript-Covid-19-Finance-Voice+SMS.docx
