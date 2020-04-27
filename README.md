@@ -168,19 +168,19 @@ Live demo below can be used to test.
 You can find a running system to test at https://generic-covid19-assistant.mybluemix.net/
 Click on <img src="https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/chat-icon.png" width="50" height="50" /> to invoke the virtual assistant.
 
-Run the scripts /demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx
+Run the scripts **/demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx**
 
 ### Voice + SMS
 Configured Twilio#: Call 214-480-4469
-Run the scripts /demo-scripts/DemoScript-Covid-19-Finance-Voice+SMS.docx
+Run the scripts **/demo-scripts/DemoScript-Covid-19-Finance-Voice+SMS.docx**
 
 ### SMS
 Configured Twilio#: Call 254-274-0066
-Run the scripts /demo-scripts/DemoScript-Covid-19-Finance-SMS.docx
+Run the scripts **/demo-scripts/DemoScript-Covid-19-Finance-SMS.docx**
 
 ### SLACK
 Please send an email to *arun.wagle@ibm.com* and I will add you to the workspace to test.
-Once added you can run the scripts /demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx
+Once added you can run the scripts **/demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx**
 
 
 ## Built with
