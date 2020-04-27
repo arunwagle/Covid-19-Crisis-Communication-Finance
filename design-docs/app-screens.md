@@ -1,4 +1,4 @@
-# Setup
+# Screenshots
 
 1. [Web Screenshot](#dialog-flows-design)
 2. [Slack Screenshot](#intents-design)
@@ -20,5 +20,5 @@
 
 ## Voice Screenshot
 
-<img src="/design-docs/images/Covid-19-Financial-Dialog-3.png"/>
+<img src="/design-docs/images/voice-screenshot.png" widht="425"/> <img src="/design-docs/images/voice1-screenshot.png" widht="425"/>
 
