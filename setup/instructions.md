@@ -1,12 +1,13 @@
-# Issues
+# Setup
 
-* [How to Contribute in Issues](#how-to-contribute-in-issues)
-* [Asking for General Help](#asking-for-general-help)
-* [Submitting a Bug Report](#submitting-a-bug-report)
-* [Triaging a Bug Report](#triaging-a-bug-report)
-* [Resolving a Bug Report](#resolving-a-bug-report)
+1. [Create a free IBM Cloud Account](#create-free-ibm-account)
+2. [Setup IBM Services](#setup-ibm-services)
+3. [Deploy Web Application](#deploy-web-application)
+4. [Deploy Voice + SMS Virtual Assistant](#deploy-voice-sms-va)
+5. [Deploy SMS Virtual Assistant](#deploy-sms-va)
+6. [Deploy Slack Virtual Assistant](#deploy-slack-va)
 
-## How to Contribute in Issues
+## Create a free IBM Cloud Account
 
 For any issue, there are fundamentally three ways an individual can
 contribute:
@@ -16,19 +17,19 @@ contribute:
    supporting details (a test case that demonstrates a bug), or providing
    suggestions on how to address the issue.
 
-## Asking for General Help
+## Setup IBM Services
 
 The best place to ask for help is through an email to * arun.wagle@ibm.com *. 
 
 
-## Submitting a Bug Report
+## Deploy Web Application
 
 When opening a new issue in the `Code-and-Response/Project-Sample` issue tracker, please provide as much
 detail about your environment as possible.
 
 See [How to create a Minimal, Complete, and Verifiable example](https://stackoverflow.com/help/mcve).
 
-## Triaging a Bug Report
+## Deploy Voice + SMS Virtual Assistant
 
 Once an issue has been opened, it is not uncommon for there to be discussion
 around it. Some contributors may have differing opinions about the issue,
@@ -47,7 +48,7 @@ incorrect, explain *why* you feel that way with additional supporting context,
 and be willing to be convinced that you may be wrong. By doing so, we can often
 reach the correct outcome much faster.
 
-## Resolving a Bug Report
+## Deploy SMS Virtual Assistant
 
 In the vast majority of cases, issues are resolved by opening a Pull Request.
 The process for opening and reviewing a Pull Request isa similar to that of
@@ -55,3 +56,4 @@ opening and triaging issues, but carries with it a necessary review and approval
 workflow that ensures that the proposed changes meet the minimal quality and
 functional guidelines.
 
+## Deploy Slack Virtual Assistant
