@@ -46,13 +46,15 @@ With the help of technology it is possible to create a platform which can provid
 
 > Providing a platform built using set of open source tools, backed by IBM Cloud and Watson Services, financial institutions can help people and small businesses with access to useful and frequently changing information. 
 
-> This platform is totally extensible and is able to handle any pandemic situations. 
+> This platform is totally extensible and is able to handle any pandemic situations.
 
 > The idea is to be able to provide rapidly changing information from various goverment agencies as well as from the financial institutions in a matter of minutes.
 
 > Omni channel experience including Web, Mobile, Voice, SMS and Slack.
 
 > Roll out new content within hours by collaboration from business, content writers and technical teams.
+
+> This pattern can be applied to any industry. 
 
 With this platform, financial institutions can provide easy access to information on (few examples)
 * Small Business Administration (SBA) 
