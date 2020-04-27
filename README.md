@@ -108,6 +108,8 @@ With this platform, financial institutions can provide easy access to informatio
    1. Specifically designed in the dialog flows 
    1. Watson Discovery which uses the Covid-19 FAQ extractors. This application gets information from DOL, Harvard Health, WHO, CDC, IRS on FAQ and is refreshed every day(can be configured to refresh every hour) to provide the latest updates.
 
+### [Watson Assistant Design](/design-docs/wa-design.md)
+
 ## Long description
 
 COVID-19 assistant for financial institutions is an omni channel virtual assistant. It will help the users of this application to get answers to frequently asked questions during crisis on topics of payments services, banking services small business administration relief and Covid-19. 
