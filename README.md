@@ -88,9 +88,7 @@ With this platform, financial institutions can provide easy access to informatio
 
 [![Watch the video](/design-docs/images/4min-video-screen.png)](https://ibm.box.com/s/r70btxeksmdzj9pt7sfhm95mismknjkg)
 
-### Detailed video
-
-[Detailed Presentation Video](https://ibm.box.com/s/jgp8lslqzqsj5rcrdfsm0qeohcf64vg2)
+### [Detailed Presentation Video](https://ibm.box.com/s/jgp8lslqzqsj5rcrdfsm0qeohcf64vg2)
 
 ## The architecture
 
