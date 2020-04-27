@@ -3,7 +3,7 @@
 1. [Dialog Flow Design](#dialog-flows-design)
 2. [Intents Design](#intents-design)
 3. [Entities Design](#entities-design)
-4. [Assitant Screenshot](#assistant-screenshot)
+4. [Assistant Screenshot](#assistant-screenshot)
 
 
 ## Dialog Flow Design
