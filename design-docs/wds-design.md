@@ -1,4 +1,4 @@
-# Setup
+# Discovery Screenshots
 
 1. [Watson Discovery Screenshots](#wds-flows-design)
 
