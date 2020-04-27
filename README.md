@@ -136,7 +136,7 @@ These instructions will help you deploy the virtual assistant on your IBM Cloud 
 5. Deploy SMS Virtual Assistant
 6. Deploy Slack Virtual Assistant
 
-[Refer to step by step that tell you how to get a development env running](setup/instructions.md)
+[Setup Instructions](setup/instructions.md)
 
 ## Running the tests
 
