@@ -126,7 +126,7 @@ When configuring "Voice Agent with Watson" for sms, you have to select the **ski
 
 
 ## Deploy Slack Virtual Assistant
-1. [Integrating with Slack](https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-slack)
+1. [Integrating with Slack](https://developer.ibm.com/tutorials/create-crisis-communication-chatbot-integrate-slack/)
 2. Select **skill-Covid-19-Financial-Virtual-Assistant---Web%2BSlack.json** for slack.
 
 
