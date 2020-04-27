@@ -116,6 +116,9 @@ This application also gets information from DOL, Harvard Health, WHO, CDC, IRS o
 
 ![Roadmap](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png)
 
+*Link to file*
+https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png
+
 ## Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
