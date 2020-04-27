@@ -114,7 +114,7 @@ This application also gets information from DOL, Harvard Health, WHO, CDC, IRS o
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+![Roadmap](https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance/blob/master/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png)
 
 ## Getting started
 
