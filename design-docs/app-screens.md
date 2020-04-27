@@ -1,9 +1,9 @@
 # Screenshots
 
-1. [Web Screenshot](#dialog-flows-design)
-2. [Slack Screenshot](#intents-design)
-3. [SMS Screenshot](#entities-design)
-4. [Voice Screenshot](#assistant-screenshot)
+1. [Web Screenshot](#web-screenshots)
+2. [Slack Screenshot](#slack-screenshots)
+3. [SMS Screenshot](#sms-screenshots)
+4. [Voice Screenshot](#voice-screenshots)
 
 
 ## Web Screenshot
