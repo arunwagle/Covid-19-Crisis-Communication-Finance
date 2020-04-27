@@ -1,4 +1,4 @@
-# Setup
+# Design
 
 1. [Dialog Flow Design](#dialog-flows-design)
 2. [Intents Design](#intents-design)
