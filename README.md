@@ -159,10 +159,7 @@ Live demo below can be used to test.
 
 ## Live demo
 
-### Demo Video
-
-#### 3 Min Overview
-TODO
+### [Live Application Screenshots](/design-docs/app-screens.md)
 
 
 #### Detailed Video
