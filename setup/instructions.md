@@ -9,9 +9,9 @@
 7. [Deploy Slack Virtual Assistant](#deploy-slack-va)
 
 ## Clone repository
-`
+```
    git clone https://github.com/arunwagle/Covid-19-Crisis-Communication-Finance.git   
-`
+```
 
 ## Create a free IBM Cloud Account
 
