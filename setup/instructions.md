@@ -109,7 +109,13 @@ Create Assistant [Link](https://cloud.ibm.com/docs/assistant?topic=assistant-ass
 
    with the script that got generated from above.
    ```
-   
+4. Deploy a Cloud Foundary App
+   1. [Create a cloud foundary app](https://cloud.ibm.com/docs/apps?topic=creating-apps-tutorial-byoc#create-byoc)
+   2. [Edit github repo to point to this repo](https://cloud.ibm.com/docs/apps?topic=creating-apps-tutorial-byoc#repo-byoc-edit)
+   3. [Enabling you app for IBM Cloud](https://cloud.ibm.com/docs/apps?topic=creating-apps-tutorial-byoc#enable-byoc-cli)
+   4. [Deploying your app](https://cloud.ibm.com/docs/apps?topic=creating-apps-tutorial-byoc#toolchain-byoc)
+
+
 ## Deploy Voice + SMS Virtual Assistant
 
 Once an issue has been opened, it is not uncommon for there to be discussion
