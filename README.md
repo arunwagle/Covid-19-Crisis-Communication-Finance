@@ -162,7 +162,7 @@ Live demo below can be used to test.
 ### [Live Application Screenshots](/design-docs/app-screens.md)
 
 
-### [Detailed Video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+### [Detailed Video](https://youtu.be/vOgCOoy_Bx0)
 
 ### Web
 You can find a running system to test at https://generic-covid19-assistant.mybluemix.net/
