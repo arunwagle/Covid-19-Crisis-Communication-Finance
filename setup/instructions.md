@@ -18,19 +18,43 @@
 1. [Create and Launch Watson Asssitant Service](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started#getting-started-prerequisites)
 
 2. Create Web+Slack dialog skill by importing the [skill-Covid-19-Financial-Virtual-Assistant---Web%2BSlack.json](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---Web%2BSlack.json)
+Note: Refer to [How to import dialog skill](https://cloud.ibm.com/docs/assistant?topic=assistant-skill-dialog-add)
 
 3. Create Voice+SMS dialog skill by importing the [skill-Covid-19-Financial-Virtual-Assistant---Voice-%2B-SMS.json](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---Voice-%2B-SMS.json)
 
 4. Create SMS dialog skill by importing the [skill-Covid-19-Financial-Virtual-Assistant---SMS.json](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---SMS.json)
 
-5. Create Web+Slack dialog skill by importing the [json file](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---Web+Slack.json)
-
-
-
-
-
+5. Once all the skills are created, you can use "Try it Out" pane to test your skill.
+Note: Refer to [Try it out](https://cloud.ibm.com/docs/assistant?topic=assistant-tutorial#tutorial-test-menu-options-intent)
 
 ### Watson Discovery
+
+1. [Create and Launch Watson Discovery Service](https://cloud.ibm.com/docs/discovery?topic=discovery-getting-started)
+
+2. Create COVID-19 Kit
+   1. Watson Discovery released **COVID-19 Kit** which has an FAQ extractor that is pre configured to extract data from the following sources. This can be extended to add more sources later.
+   `
+    https://faq.coronavirus.gov/
+    https://www.who.int/news-room/q-a-detail/q-a-coronaviruses
+    https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19
+    https://www.health.harvard.edu/diseases-and-conditions/if-you-are-at-higher-risk
+    https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus
+    https://www.health.harvard.edu/diseases-and-conditions/coronavirus-outbreak-and-kids
+    https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
+    https://www.dol.gov/agencies/whd/flsa/pandemic
+    https://www.dol.gov/agencies/whd/fmla/pandemic
+    https://www.dol.gov/coronavirus/unemployment-insurance
+    
+   `
+   2. Create a collection by selecting COVID-19 Kit. 
+   3. Customize to add the IRS source. This has information on the relief act passed by the goverment
+   `
+    https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
+   `
+3. Choose a **Sync frequency** to "once a day"
+
+   
+
 ### Speech to Text
 ### Text to Speech
 ### Voice Agent with Watson
