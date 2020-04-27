@@ -32,7 +32,7 @@
 
 <img src="/design-docs/images/Covid-19-Financial-entities.png"/>
 
-### Assitant Screenshot
+## Assitant Screenshot
 
 <img src="/design-docs/images/Covid-19-Financial-Assistant.png"/>
 
