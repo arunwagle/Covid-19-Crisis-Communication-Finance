@@ -179,7 +179,7 @@ Configured Twilio#: Call 254-274-0066
 Run the scripts **/demo-scripts/DemoScript-Covid-19-Finance-SMS.docx**
 
 ### SLACK
-Please send an email to *arun.wagle@ibm.com* and I will add you to the workspace to test.
+Please send an email to *arun.wagle@ibm.com* and we will add you to the workspace to test.
 Once added you can run the scripts **/demo-scripts/DemoScript-Covid-19-Finance-Web+Slack.docx**
 
 
