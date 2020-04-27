@@ -123,7 +123,7 @@ This application also gets information from DOL, Harvard Health, WHO, CDC, IRS o
 
 ![Roadmap](/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png)
 
-### [Link to file](/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png) 
+### [Project Plan Link](/design-docs/images/Product%20Roadmap%20-%20Timeline_%20By%20Team.png) 
 
 
 ## Getting started
