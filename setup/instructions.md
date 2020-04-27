@@ -118,29 +118,16 @@ Create Assistant [Link](https://cloud.ibm.com/docs/assistant?topic=assistant-ass
 
 ## Deploy Voice + SMS Virtual Assistant
 
-Once an issue has been opened, it is not uncommon for there to be discussion
-around it. Some contributors may have differing opinions about the issue,
-including whether the behavior being seen is a bug or a feature. This discussion
-is part of the process and should be kept focused, helpful, and professional.
+When configuring "Voice Agent with Watson" for voice and sms, you have to select the **skill-Covid-19-Financial-Virtual-Assistant---Voice-%2B-SMS.json**
 
-Short, clipped responses—that provide neither additional context nor supporting
-detail—are not helpful or professional. To many, such responses are simply
-annoying and unfriendly.
-
-Contributors are encouraged to help one another make forward progress as much
-as possible, empowering one another to solve issues collaboratively. If you
-choose to comment on an issue that you feel either is not a problem that needs
-to be fixed, or if you encounter information in an issue that you feel is
-incorrect, explain *why* you feel that way with additional supporting context,
-and be willing to be convinced that you may be wrong. By doing so, we can often
-reach the correct outcome much faster.
 
 ## Deploy SMS Virtual Assistant
+When configuring "Voice Agent with Watson" for sms, you have to select the **skill-Covid-19-Financial-Virtual-Assistant---SMS.json**
 
-In the vast majority of cases, issues are resolved by opening a Pull Request.
-The process for opening and reviewing a Pull Request isa similar to that of
-opening and triaging issues, but carries with it a necessary review and approval
-workflow that ensures that the proposed changes meet the minimal quality and
-functional guidelines.
 
 ## Deploy Slack Virtual Assistant
+1. [Integrating with Slack](https://cloud.ibm.com/docs/assistant?topic=assistant-deploy-slack)
+2. Select **skill-Covid-19-Financial-Virtual-Assistant---Web%2BSlack.json** for slack.
+
+
+
