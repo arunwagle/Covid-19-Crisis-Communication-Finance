@@ -62,7 +62,17 @@ Note: Refer to [Try it out](https://cloud.ibm.com/docs/assistant?topic=assistant
 [Create Text To Speech Service](https://cloud.ibm.com/docs/services/text-to-speech?topic=text-to-speech-gettingStarted#getting-started-tutorial)
 
 ### Voice Agent with Watson
-
+1. [Create a Voice Agent Service](https://cloud.ibm.com/docs/services/voice-agent?topic=voice-agent-getting-started#step1)
+2. [Create a Twilio SIP Trunk](https://cloud.ibm.com/docs/services/voice-agent?topic=voice-agent-connect#twilio-setup)
+3. Set up an SMS Provider for SMS capabilities
+   1. Generate API Key from the **Service credentials** tab on the left.
+   2. [Setup SMS Agent](https://cloud.ibm.com/docs/services/voice-agent?topic=voice-agent-sms_config_instance)
+   3. [Setup SMS enabled Voice Agent](https://cloud.ibm.com/docs/services/voice-agent?topic=voice-agent-sms_voice_config_instance)
+   4. Connect to your agents created in step 2 and 3 above (you have to create 2 agents, one for ems enabled voice and the other for only SMS)
+      
+   5. Test your agent
+      1. Call the phone number that you configured to speak to your voice agent. If you hear a response, your voice agent is active. OR
+      2. Text the phone number that you configured to initiate an SMS session. If you receive an SMS back, your SMS agent is active.
 
 ## Deploy Web Application
 
