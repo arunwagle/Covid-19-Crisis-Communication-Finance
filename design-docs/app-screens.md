@@ -1,40 +1,24 @@
 # Setup
 
-1. [Dialog Flow Design](#dialog-flows-design)
-2. [Intents Design](#intents-design)
-3. [Entities Design](#entities-design)
-4. [Assistant Screenshot](#assistant-screenshot)
+1. [Web Screenshot](#dialog-flows-design)
+2. [Slack Screenshot](#intents-design)
+3. [SMS Screenshot](#entities-design)
+4. [Voice Screenshot](#assistant-screenshot)
 
 
-## Dialog Flow Design
+## Web Screenshot
 
-### Overall Dialog Flow
+<img src="/design-docs/images/web-screenshot.png"/>
 
-<img src="/design-docs/images/Covid-19-Financial-Dialog-1.png"/>
+## Slack Screenshot
 
-### Payments Services Dialog Flow
+<img src="/design-docs/images/slack-screenshot.png"/>
 
-<img src="/design-docs/images/Covid-19-Financial-Dialog-2.png"/>
+## SMS Screenshot
 
-### Banking Operations Dialog Flow
+<img src="/design-docs/images/sms-screenshot.png"/>
 
-<img src="/design-docs/images/Covid-19-Financial-Dialog-4.png"/>
-
-### Small Business Administration (SBA) + General Covid FAQ
+## Voice Screenshot
 
 <img src="/design-docs/images/Covid-19-Financial-Dialog-3.png"/>
-
-## Intents Design
-
-<img src="/design-docs/images/Covid-19-Financial-intents.png"/>
-
-## Entities Design
-
-<img src="/design-docs/images/Covid-19-Financial-entities.png"/>
-
-### Assitant Screenshot
-
-<img src="/design-docs/images/Covid-19-Financial-Assistant.png"/>
-
-
 
