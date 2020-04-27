@@ -1,9 +1,9 @@
 # Screenshots
 
-1. [Web Screenshot](#web-screenshots)
-2. [Slack Screenshot](#slack-screenshots)
-3. [SMS Screenshot](#sms-screenshots)
-4. [Voice Screenshot](#voice-screenshots)
+1. [Web Screenshot](#web-screenshots-1)
+2. [Slack Screenshot](#slack-screenshots-1)
+3. [SMS Screenshot](#sms-screenshots-1)
+4. [Voice Screenshot](#voice-screenshots-1)
 
 
 ## Web Screenshot
