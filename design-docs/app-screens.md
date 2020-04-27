@@ -8,17 +8,24 @@
 
 ## Web Screenshot
 
+
 <img src="/design-docs/images/web-screenshot.png"/>
+
 
 ## Slack Screenshot
 
+
 <img src="/design-docs/images/slack-screenshot.png"/>
+
 
 ## SMS Screenshot
 
+
 <img src="/design-docs/images/sms-screenshot.png"/>
 
+
 ## Voice Screenshot
+
 
 <img src="/design-docs/images/voice-screenshot.png" width="400"/> <img src="/design-docs/images/voice1-screenshot.png" width="400"/>
 
