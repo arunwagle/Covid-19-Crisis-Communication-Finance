@@ -33,30 +33,34 @@ Note: Refer to [Try it out](https://cloud.ibm.com/docs/assistant?topic=assistant
 
 2. Create COVID-19 Kit
    1. Watson Discovery released **COVID-19 Kit** which has an FAQ extractor that is pre configured to extract data from the following sources. This can be extended to add more sources later.
-   `
-    https://faq.coronavirus.gov/
-    https://www.who.int/news-room/q-a-detail/q-a-coronaviruses
-    https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19
-    https://www.health.harvard.edu/diseases-and-conditions/if-you-are-at-higher-risk
-    https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus
-    https://www.health.harvard.edu/diseases-and-conditions/coronavirus-outbreak-and-kids
-    https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
-    https://www.dol.gov/agencies/whd/flsa/pandemic
-    https://www.dol.gov/agencies/whd/fmla/pandemic
-    https://www.dol.gov/coronavirus/unemployment-insurance
+   
+   https://faq.coronavirus.gov/
+   https://www.who.int/news-room/q-a-detail/q-a-coronaviruses
+   https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19
+   https://www.health.harvard.edu/diseases-and-conditions/if-you-are-at-higher-risk
+   https://www.health.harvard.edu/diseases-and-conditions/if-youve-been-exposed-to-the-coronavirus
+   https://www.health.harvard.edu/diseases-and-conditions/coronavirus-outbreak-and-kids
+   https://www.health.harvard.edu/diseases-and-conditions/coronavirus-resource-center
+   https://www.dol.gov/agencies/whd/flsa/pandemic
+   https://www.dol.gov/agencies/whd/fmla/pandemic
+   https://www.dol.gov/coronavirus/unemployment-insurance
     
-   `
+   
    2. Create a collection by selecting COVID-19 Kit. 
    3. Customize to add the IRS source. This has information on the relief act passed by the goverment
-   `
-    https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
-   `
+   https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know
+   
 3. Choose a **Sync frequency** to "once a day"
 
+4. Create Search Skill "Covid-19 FAQ Search Skill" in Watson Assistant. Select Title = "extracted_metadata.title", Body = "text" and URL = "metadata.source.url"
+   Note [Refer to](https://cloud.ibm.com/docs/assistant?topic=assistant-skill-search-add)
    
-
 ### Speech to Text
+[Create Speech To Text Service](https://cloud.ibm.com/docs/services/speech-to-text?topic=speech-to-text-gettingStarted#getting-started-tutorial)
+
 ### Text to Speech
+[Create Text To Speech Service](https://cloud.ibm.com/docs/services/text-to-speech?topic=text-to-speech-gettingStarted#getting-started-tutorial)
+
 ### Voice Agent with Watson
 
 
