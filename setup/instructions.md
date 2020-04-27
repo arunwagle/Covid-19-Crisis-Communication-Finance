@@ -9,17 +9,31 @@
 
 ## Create a free IBM Cloud Account
 
-For any issue, there are fundamentally three ways an individual can
-contribute:
-
-1. By opening the issue for discussion: Currently reporting a new issue will be by sending and email to arun.wagle@ibm.com. Mention the subject as <Issue:Bug/Enhancement Request>. Explain the issus in details in the body of the email.
-2. By helping to triage the issue: This can be done either by providing
-   supporting details (a test case that demonstrates a bug), or providing
-   suggestions on how to address the issue.
+[Create New IBM Cloud Account](https://cloud.ibm.com/registration)
 
 ## Setup IBM Services
 
-The best place to ask for help is through an email to * arun.wagle@ibm.com *. 
+### Watson Assistant
+
+1. [Create and Launch Watson Asssitant Service](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started#getting-started-prerequisites)
+
+2. Create Web+Slack dialog skill by importing the [skill-Covid-19-Financial-Virtual-Assistant---Web%2BSlack.json](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---Web%2BSlack.json)
+
+3. Create Voice+SMS dialog skill by importing the [skill-Covid-19-Financial-Virtual-Assistant---Voice-%2B-SMS.json](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---Voice-%2B-SMS.json)
+
+4. Create SMS dialog skill by importing the [skill-Covid-19-Financial-Virtual-Assistant---SMS.json](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---SMS.json)
+
+5. Create Web+Slack dialog skill by importing the [json file](/watson-assets/WatsonAssistant/skill-Covid-19-Financial-Virtual-Assistant---Web+Slack.json)
+
+
+
+
+
+
+### Watson Discovery
+### Speech to Text
+### Text to Speech
+### Voice Agent with Watson
 
 
 ## Deploy Web Application
